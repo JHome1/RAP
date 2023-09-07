@@ -14,3 +14,6 @@ If you find our paper/code is useful, please cite:
                pages     = {913-923}
                }
 ```
+
+## Environments and Datasets
+Download the datasets and set the environments following the project [```CloserLookFewShot```](https://github.com/wyharveychen/CloserLookFewShot).
