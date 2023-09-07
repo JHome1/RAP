@@ -19,6 +19,7 @@ If you find our paper/code is useful, please cite:
 Download the datasets, set the environments and prepare the pre-trained models following the project [```CloserLookFewShot```](https://github.com/wyharveychen/CloserLookFewShot).
 
 ## Running the Code
+Configure parameters in job.sh, and run:
 ```
 sh job.sh
 ```
