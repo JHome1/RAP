@@ -17,3 +17,8 @@ If you find our paper/code is useful, please cite:
 
 ## Environments and Datasets
 Download the datasets, set the environments and prepare the pre-trained models following the project [```CloserLookFewShot```](https://github.com/wyharveychen/CloserLookFewShot).
+
+## Running the Code
+```
+sh job.sh
+```
