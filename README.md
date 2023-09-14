@@ -1,6 +1,6 @@
 # RAP
 This repository is for Reinforced-Attention Policy (RAP) model introduced in the following paper:  
-**Reinforced Attention for Few-Shot Learning and Beyond**
+**"Reinforced Attention for Few-Shot Learning and Beyond"**
 
 ## Paper and Citation  
 If you find our paper/code is useful, please cite:
